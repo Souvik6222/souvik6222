@@ -12,38 +12,35 @@
 
 ## 🧬 **About Me**
 
-```python
-#!/usr/bin/env python3
+<div align="center">
 
-class AIEngineer:
-    def __init__(self):
-        self.name = "Souvik Biswas"
-        self.role = "AI/ML Engineer"
-        self.location = "India 🇮🇳"
-        self.code = ["Python", "TensorFlow", "PyTorch", "scikit-learn"]
-        self.focus = {
-            "learning": ["Deep Learning", "NLP", "Computer Vision"],
-            "exploring": ["Generative AI", "LLMs", "Neural Architecture"],
-            "building": ["Intelligent Systems", "ML Pipelines"]
-        }
-        
-    def current_mission(self):
-        return "Transforming ideas into intelligent solutions"
-    
-    def say_hello(self):
-        print("👋 Hey there! Let's innovate together with AI!")
+### 👨‍💻 Full-Stack Developer × 🤖 AI/ML Engineer
 
-# Initialize
-souvik = AIEngineer()
-print(souvik.current_mission())
-souvik.say_hello()
-```
+Hey there! I'm **Souvik Biswas**, a passionate developer who bridges the gap between **intelligent systems** and **beautiful user experiences**.
+
+<br>
+
+🌐 **Full-Stack Development** — Building scalable web applications with modern technologies  
+🧠 **AI/ML Engineering** — Creating intelligent solutions with Deep Learning & NLP  
+🚀 **Innovation Driven** — Combining web development with artificial intelligence
+
+<br>
+
+</div>
+
+### 🎯 **What I Do**
+
+- 💻 **Full-Stack Development**: Crafting robust web applications using React, Node.js, and modern frameworks
+- 🤖 **AI/ML Engineering**: Building and deploying machine learning models for real-world applications
+- 🔗 **AI Integration**: Bridging the gap by integrating AI capabilities into web applications
+- 📊 **Data-Driven Solutions**: Leveraging data science to create intelligent, user-centric products
+- 🌱 **Continuous Learning**: Exploring Deep Learning, NLP, Computer Vision, and cutting-edge ML technologies
 
 <div align="center">
-  
-**🔬 Passionate about pushing the boundaries of artificial intelligence**  
-**🌱 Constantly learning and experimenting with cutting-edge ML technologies**  
-**💡 Open to collaborating on innovative AI projects and research**
+
+**🔬 Passionate about using AI to solve real-world problems**  
+**💡 Open to collaborating on innovative web & AI projects**  
+**🚀 Always experimenting with new technologies and frameworks**
 
 </div>
 
@@ -52,6 +49,16 @@ souvik.say_hello()
 ## 🛠️ **Tech Arsenal**
 
 <div align="center">
+
+### **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,bootstrap" alt="Frontend" height="50"/>
+</p>
+
+### **Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" alt="Backend" height="50"/>
+</p>
 
 ### **AI/ML Frameworks**
 <p>
@@ -74,17 +81,9 @@ souvik.say_hello()
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </p>
 
-### **Development Tools**
+### **Development Tools & Cloud**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" alt="Dev Tools" height="50"/>
-</p>
-
-### **Cloud & Databases**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,aws" alt="Dev Tools" height="50"/>
 </p>
 
 </div>
@@ -97,27 +96,33 @@ souvik.say_hello()
 
 ```mermaid
 mindmap
-  root((AI/ML))
-    Deep Learning
-      CNNs
-      RNNs/LSTMs
+  root((Tech Stack))
+    Full-Stack Development
+      React & Next.js
+      Node.js & Express
+      MongoDB & SQL
+      RESTful APIs
+      Responsive Design
+    AI/ML Engineering
+      Deep Learning
+      CNNs & RNNs
       Transformers
       GANs
-    NLP
+    NLP & Text
       Text Classification
       Sentiment Analysis
-      LLMs
-      Named Entity Recognition
+      LLMs Integration
+      Chatbots
     Computer Vision
       Image Classification
       Object Detection
-      Image Segmentation
+      Image Processing
       Face Recognition
-    MLOps
+    Integration
+      AI-Powered Web Apps
+      Real-time ML APIs
       Model Deployment
-      Monitoring
-      CI/CD Pipelines
-      Docker/K8s
+      MLOps
 ```
 
 </div>
@@ -128,12 +133,12 @@ mindmap
 
 <div align="center">
 
-| 🧠 **Deep Learning** | 🗣️ **NLP** | 👁️ **Computer Vision** | ⚙️ **MLOps** |
+| 🌐 **Full-Stack** | 🧠 **Deep Learning** | 🗣️ **NLP** | 👁️ **Computer Vision** |
 |:---:|:---:|:---:|:---:|
-| Neural Networks | Transformers | CNNs | Model Serving |
-| Optimization | BERT/GPT | Object Detection | Docker |
-| Regularization | Fine-tuning | Image Segmentation | Kubernetes |
-| Transfer Learning | Prompt Engineering | GANs | CI/CD |
+| Next.js 14 | Neural Networks | Transformers | CNNs |
+| TypeScript | Optimization | BERT/GPT | Object Detection |
+| GraphQL | Regularization | Fine-tuning | Image Segmentation |
+| Microservices | Transfer Learning | Prompt Engineering | GANs |
 
 </div>
 
@@ -144,26 +149,26 @@ mindmap
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.icons8.com/3d-fluency/94/brain.png" width="80"/>
-      <h3>🧠 Neural Networks</h3>
-      <p><em>Building & training custom architectures for various ML tasks</em></p>
+      <img src="https://img.icons8.com/3d-fluency/94/web.png" width="80"/>
+      <h3>🌐 Full-Stack Apps</h3>
+      <p><em>Building modern web applications with React, Node.js & databases</em></p>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.icons8.com/3d-fluency/94/chatbot.png" width="80"/>
-      <h3>💬 NLP Models</h3>
-      <p><em>Experimenting with transformers and language models</em></p>
+      <img src="https://img.icons8.com/3d-fluency/94/brain.png" width="80"/>
+      <h3>🧠 Neural Networks</h3>
+      <p><em>Training custom architectures for various ML tasks</em></p>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
+      <img src="https://img.icons8.com/3d-fluency/94/chatbot.png" width="80"/>
+      <h3>💬 AI Integration</h3>
+      <p><em>Integrating ML models into web applications</em></p>
+    </td>
+    <td align="center" width="50%">
       <img src="https://img.icons8.com/3d-fluency/94/computer-vision.png" width="80"/>
       <h3>👁️ Computer Vision</h3>
       <p><em>Developing image classification and detection systems</em></p>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.icons8.com/3d-fluency/94/data-configuration.png" width="80"/>
-      <h3>📊 Data Analysis</h3>
-      <p><em>Extracting insights from complex datasets</em></p>
     </td>
   </tr>
 </table>
@@ -172,35 +177,63 @@ mindmap
 
 ## 💻 **Code in Action**
 
-```python
-# A glimpse into my daily workflow
+<table>
+<tr>
+<td width="50%">
 
+**Full-Stack Development**
+```javascript
+// Building modern web apps
+const express = require('express');
+const app = express();
+
+app.get('/api/data', async (req, res) => {
+  const data = await fetchFromDB();
+  res.json({ success: true, data });
+});
+
+// React Component
+const Dashboard = () => {
+  const [data, setData] = useState([]);
+  
+  useEffect(() => {
+    fetchData().then(setData);
+  }, []);
+  
+  return <DataVisualizer data={data} />;
+};
+```
+
+</td>
+<td width="50%">
+
+**AI/ML Engineering**
+```python
+# Training ML models
 import tensorflow as tf
-import pandas as pd
 import numpy as np
 
-# Loading and preprocessing data
-def prepare_data(data_path):
-    df = pd.read_csv(data_path)
-    # Feature engineering magic ✨
-    return processed_data
+# Build neural network
+model = tf.keras.Sequential([
+    tf.keras.layers.Dense(128, activation='relu'),
+    tf.keras.layers.Dropout(0.3),
+    tf.keras.layers.Dense(64, activation='relu'),
+    tf.keras.layers.Dense(10, activation='softmax')
+])
 
-# Building neural networks
-def create_model(input_shape):
-    model = tf.keras.Sequential([
-        tf.keras.layers.Dense(128, activation='relu'),
-        tf.keras.layers.Dropout(0.3),
-        tf.keras.layers.Dense(64, activation='relu'),
-        tf.keras.layers.Dense(10, activation='softmax')
-    ])
-    return model
+# Train model
+model.compile(optimizer='adam', 
+              loss='categorical_crossentropy',
+              metrics=['accuracy'])
 
-# Training with passion 🔥
-model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
-history = model.fit(X_train, y_train, epochs=50, validation_data=(X_val, y_val))
-
-print("🎯 Model trained successfully! Accuracy: {:.2f}%".format(accuracy * 100))
+history = model.fit(X_train, y_train, 
+                   epochs=50, 
+                   validation_data=(X_val, y_val))
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -246,17 +279,18 @@ print("🎯 Model trained successfully! Accuracy: {:.2f}%".format(accuracy * 100
 
 ## 🔥 **Fun Facts**
 
-- 🤖 I think in tensors and matrices
-- 📚 Always reading the latest AI research papers
+- 💻 I build web apps by day and train neural networks by night
+- 🤖 Passionate about integrating AI into everyday applications
+- 📚 Always exploring new frameworks and ML research papers
 - ☕ Fueled by coffee and curiosity
-- 🎯 Believer in AI for good
-- 🌟 Excited about the future of AGI
+- 🎯 Believer in using technology to create meaningful impact
+- 🌟 Excited about the intersection of web development and AI
 
 ---
 
 <div align="center">
 
-### ⚡ **"Making machines smarter, one algorithm at a time"** ⚡
+### ⚡ **"Building intelligent web experiences, one line of code at a time"** ⚡
 
 <br>
 
