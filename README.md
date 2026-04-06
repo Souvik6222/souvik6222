@@ -5,42 +5,10 @@
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=souvik6222&theme=tokyonight&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-00C853?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Opportunities" />
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=souvik6222&label=Profile%20Views&color=00C853&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 </div>
-
-### 📊 Live GitHub Insights
-<div align="center">
-  <img src="https://raw.githubusercontent.com/souvik6222/souvik6222/main/github-metrics.svg" width="100%" alt="Metrics" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=souvik6222&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF" height="180" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souvik6222&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF&langs_count=8" height="180" alt="Most Used Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=souvik6222&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
-</div>
-
-<br>
 
 ### 👤 About Me
 
