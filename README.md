@@ -21,6 +21,27 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 </div>
 
+### 📊 Live GitHub Insights
+<div align="center">
+  <img src="https://raw.githubusercontent.com/souvik6222/souvik6222/main/github-metrics.svg" width="100%" alt="Metrics" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=souvik6222&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF" height="180" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souvik6222&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF&langs_count=8" height="180" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=souvik6222&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</div>
+
+<br>
+
 ### 👤 About Me
 
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" height="300" width="400" align="right" style="margin-left: 20px;" alt="coding animation" />
@@ -145,44 +166,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
-</div>
-
-### 📊 My GitHub Journey
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=souvik6222&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF" height="180" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=souvik6222&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF&langs_count=8" height="180" alt="Most Used Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=souvik6222&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souvik6222&bg_color=0D1117&color=00C853&line=00C853&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souvik6222&theme=tokyonight-duo&bg_color=0D1117&hide_border=true&color=00C853" width="100%" alt="Detailed Activity" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
-</div>
-
-### 🐍 Snake Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souvik6222/souvik6222/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souvik6222/souvik6222/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/souvik6222/souvik6222/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 <div align="center">
