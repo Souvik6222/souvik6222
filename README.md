@@ -102,39 +102,7 @@
   </tr>
 </table>
 
-### 📂 Featured Projects
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <h4 align="center">🎥 RAG-Based AI Extension</h4>
-        <p>AI-powered insights and summaries for YouTube videos using LangChain and RAG.</p>
-        <p align="center">
-          <a href="https://github.com/Souvik6222/own_project"><b>View Code</b></a> | 
-          <a href="https://souvik-biswas.vercel.app/"><b>Live Demo</b></a>
-        </p>
-      </td>
-      <td width="50%">
-        <h4 align="center">🔍 Perplexity Clone</h4>
-        <p>Modern frontend clone of Perplexity AI search with a clean UI and real-time search.</p>
-        <p align="center">
-          <a href="https://github.com/Souvik6222/perplexity"><b>View Code</b></a> | 
-          <a href="https://perplexity-sable.vercel.app"><b>Live Demo</b></a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <h4 align="center">📊 ML & Kaggle Projects</h4>
-        <p>Collection of predictive modeling and advanced ML algorithm solutions.</p>
-        <p align="center">
-          <a href="https://github.com/Souvik6222/kaggle_competitions_"><b>View Code</b></a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
