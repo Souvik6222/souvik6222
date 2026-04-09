@@ -14,7 +14,7 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWcwNWY0eXlsMHNua3puM2Z2dDdoNmJpMTEwOGYyZHczN3llenRwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" height="300" width="400" align="right" style="margin-left: 20px;" alt="coding animation" />
 
-- 🤖 **AI Developer** specializing in **Intelligent Systems**
+- 🤖 **AI AND PYTHON Developer** specializing in **Intelligent Systems**
 - 💻 Building smart, user-friendly AI products using **LangChain, Next.js, and RAG**
 - 🧠 I turn messy ideas into reliable, working AI features
 - 🚀 **Core Focus:** Building YouTube Q&A bots, document chat systems, and search clones
