@@ -12,7 +12,7 @@
 
 ### 👤 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" height="300" width="400" align="right" style="margin-left: 20px;" alt="coding animation" />
+<img src="[https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2pyYzVtZTF2bnczZDllcWQ5Z3VkaW0zNHVxdWlvcmlsMGsyYXJ6OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/source.gif)" height="300" width="400" align="right" style="margin-left: 20px;" alt="coding animation" />
 
 - 🤖 **AI Developer** specializing in **Intelligent Systems**
 - 💻 Building smart, user-friendly AI products using **LangChain, Next.js, and RAG**
